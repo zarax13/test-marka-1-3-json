@@ -19,4 +19,3 @@ RUN ln -s /runpod-volume/outputs /comfyui/output
 
 # copy all input data (like images or videos) into comfyui (uncomment and adjust if needed)
 # COPY input/ /comfyui/input/
-
